@@ -26,6 +26,7 @@
 
 
 ## Graph
+<img width="1905" height="837" alt="image" src="https://github.com/user-attachments/assets/98fbdc92-740b-49a2-a626-36d94c911844" />
 
 
 ## **Result**
