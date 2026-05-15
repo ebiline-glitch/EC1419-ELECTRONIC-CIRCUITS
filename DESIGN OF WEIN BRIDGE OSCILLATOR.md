@@ -16,8 +16,11 @@
 ## Tabulation
 
 ## Graph
+<img width="1187" height="277" alt="image" src="https://github.com/user-attachments/assets/e10389a6-1f93-432b-8b89-86edb111e613" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
 
 Practical frequency of Oscillation =
 
